@@ -2,7 +2,7 @@
 
 ## Interactions Overview
 
-This project is a carnival environment where the player needs to walk over to the Carnival game, and throw the red ball to knock down the red can to win. 
+This project is a carnival environment where the player needs to follow the road to enter the Carnival, find the main game (straight ahead), and throw the red ball to knock down the red can to win. 
 
 The project demonstrates a number of key VR interactions:
 
