@@ -27,6 +27,5 @@ public class BallReset : MonoBehaviour
             rb.angularVelocity = Vector3.zero;
         }
     }
-
     
 }
